@@ -1,1 +1,9 @@
-{}
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Add permission allow rule for gh auth commands *)"
+    ]
+  }
+}
